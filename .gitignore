@@ -1,0 +1,19 @@
+# Large data files
+*.ZIP
+*.zip
+*.db
+*.csv.gz
+
+# Research PDFs
+Research/
+
+# QGIS lock files
+*.lock
+
+# Python
+__pycache__/
+*.pyc
+.env
+
+# Claude settings
+.claude/
