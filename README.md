@@ -13,11 +13,11 @@ This is a learning project, built to practise multi-source remote sensing, radar
 <table>
 <tr>
 <td width="50%">
-<img src="Outputs/IMG/karst_lake_flood.jpg" width="100%"/>
+<img src="IMG/karst_lake_flood.jpg" width="100%"/>
 <sub>Temporary lake during a flood event. The A7 motorway embankment is visible; tree tops in the foreground are submerged. The ditch leads to the ponor (sinkhole) below Nestani village. <i>Wikimedia Commons, CC BY-SA 3.0</i></sub>
 </td>
 <td width="50%">
-<img src="Outputs/IMG/polje_aerial.jpg" width="100%"/>
+<img src="IMG/polje_aerial.jpg" width="100%"/>
 <sub>Aerial view of the polje showing its enclosed basin geometry. Flood water has no surface outlet — drainage is entirely subsurface through the katavothra. <i>Wikimedia Commons, CC BY-SA 3.0</i></sub>
 </td>
 </tr>
@@ -25,7 +25,7 @@ This is a learning project, built to practise multi-source remote sensing, radar
 
 The basin is geologically enclosed: the only drainage is a single **katavothra** (karst sinkhole) in the limestone wall below Nestani village. When winter rainfall exceeds the sinkhole's capacity, the plain floods and temporarily becomes a lake. Tracer studies have shown that water entering the katavothra re-emerges at the **Kiveri submarine spring** in the Argolic Gulf — approximately 30 km away and 190 hours later.
 
-<img src="Outputs/IMG/kiveri_spring.jpg" width="40%"/>
+<img src="IMG/kiveri_spring.jpg" width="40%"/>
 
 <sub>Kiveri submarine karst spring, Argolic Gulf — the surface re-emergence point of water that drains through the Argon Pedion katavothra. <i>Wikimedia Commons, CC BY-SA 3.0</i></sub>
 
